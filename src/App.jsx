@@ -10,7 +10,7 @@ const form = () => {
           <img src={sidelogo} alt="side_logo"></img>
         </div>
         <div className="header_center">
-          <h2>PACKING SLIP</h2>
+          <h2>PACKING repo</h2>
         </div>
         <div className="header_right">
           <img src={logo} alt="logo"></img>
